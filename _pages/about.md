@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Linwei Ding 丁林未"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
