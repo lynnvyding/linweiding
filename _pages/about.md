@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Linwei DING 丁林未"
+title: "Linwei Ding 丁林未"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my home page! My name is Linwei Ding. I am a graduate student major in Theory of Art and Culture in the School of Arts, Nanjing University. I Graduated from Xiamen University in 2022 with B.A. in Musicology and Accounting. 
+Welcome to my home page! My name is Linwei Ding. I am a master student major in Theory of Art and Culture in the School of Arts, Nanjing University. I Graduated from Xiamen University in 2022 with B.A. in Musicology and Accounting. 
 
 Research Interests
 ======
