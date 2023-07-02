@@ -31,7 +31,7 @@ Skills
 * Ableton Live
 * Stata
 * MS Office
-* python
+* Python
 
 
 Publications
