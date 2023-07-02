@@ -10,8 +10,8 @@ redirect_from:
 
 Education
 ======
-* B.A. in Xiamen, **Xiamen University**, 2018-2022
-* M.A. in Nanjing, **Nanjing University**, 2022-2025
+* B.A. in Musicology and accounting, **Xiamen University**, 2018-2022
+* M.A. in Theory of Art and Culture, **Nanjing University**, 2022-2025
   
 
 Working
@@ -22,14 +22,16 @@ Working
 
 * **Spring 2023: Teaching Assistant**
   * Nanjing University
-  * Supervisor: Professor Lin QI
+  * Supervisor: Professor Lin Qi
 
 Skills
 ======
 * Composition
 * Piano
+* Ableton Live
 * Stata
-* Typesetting
+* MS Office
+* python
 
 
 Publications
