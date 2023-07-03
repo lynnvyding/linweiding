@@ -1,5 +1,5 @@
 ---
-title: "The intermedium Dimension of Richard Wagner's Concept of Gesamtkunstwerk: Case Study Based on Lohengrin"
+title: "The Intermedium Dimension of Richard Wagner's Concept of Gesamtkunstwerk: Case Study Based on Lohengrin"
 collection: talks
 type: "Conference proceedings talk"
 venue: "The 7th Graduate Academic Forum in Humanities and Social Sciences of Beijing Language and Culture University."
