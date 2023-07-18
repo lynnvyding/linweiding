@@ -11,7 +11,7 @@ redirect_from:
 Education
 ======
 * B.A. in Musicology and accounting, **Xiamen University**, 2018-2022
-* M.A. in Theory of Art and Culture; Advisor: Dr. Lin Qi, **Nanjing University**, 2022-2025
+* M.A. in Theory of Art and Culture; Advisor: Prof. Lin Qi, **Nanjing University**, 2022-2025
   
 
 Working
