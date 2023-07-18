@@ -18,12 +18,11 @@ Working
 ======
 * **Spring 2020: Research Assistant**
   * University of Chicago
-  * Supervisor: Professor Richard Payne
+  * Supervisor: Dr. Richard Payne
 
 * **Spring 2023: Teaching Assistant**
   * Nanjing University
-  * Supervisor: Professor Lin Qi
-
+  * Supervisor: Prof. Chengzhou He
 Skills
 ======
 * Composition
