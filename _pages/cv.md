@@ -5,10 +5,6 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
-{% include base_path %}
-
----
 [Download CV here](http://viviending.github.io/linweiding/files/CV_DING_July2023.pdf)
 ---
 
