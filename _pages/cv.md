@@ -18,7 +18,7 @@ Working
 ======
 * **Spring 2020: Research Assistant**
   * University of Chicago
-  * Supervisor: Dr. Richard Payne
+  * Instructor: Dr. Richard Payne
 
 * **Spring 2023: Teaching Assistant**
   * Nanjing University
