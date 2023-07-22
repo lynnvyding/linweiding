@@ -8,6 +8,10 @@ redirect_from:
 
 {% include base_path %}
 
+---
+[Download CV here](http://viviending.github.io/linweiding/files/CV_DING_July2023.pdf)
+---
+
 Education
 ======
 * B.A. in Musicology and accounting, **Xiamen University**, 2018-2022
