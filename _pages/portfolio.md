@@ -9,7 +9,7 @@ author_profile: true
 
 
 * **Twitter**: [https://twitter.com/ding_linwei](https://twitter.com/ding_linwei)
-* **Linkedin**: [https://www.linkedin.cn/in/linwei-ding-6570b419b](https://www.linkedin.cn/in/linwei-ding-6570b419b])
+* **Linkedin**: [https://www.linkedin.cn/in/linwei-ding-6570b419b](https://www.linkedin.cn/in/linwei-ding-6570b419b)
 
 
 {% for post in site.portfolio %}
