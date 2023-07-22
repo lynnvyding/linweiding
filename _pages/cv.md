@@ -22,7 +22,7 @@ Working
 
 * **Spring 2023: Teaching Assistant**
   * Nanjing University
-  * Supervisor: Prof. Chengzhou He
+  * Instructor: Prof. Chengzhou He
     
 Skills
 ======
