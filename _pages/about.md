@@ -12,7 +12,7 @@ Welcome to my home page! My name is Linwei Ding. I am a graduate student studyin
 
 Research Interests
 ======
-My research interests focus on Art Communication and Media Culture, Musicology and Sound Study, and Digital Platforms and Cultural Industry. As a mixed method researcher, I use qualitative methods such as ethnography into the society's culture phenomenon, along with data analysis methods.
+My research interests focus on Art Communication and Media Culture, Musicology and Sound Study, and Digital Platforms and Cultural Industry. As a mixed method researcher, I use qualitative methods such as ethnography into the society's cultural phenomenon, along with data analysis methods.
 
 Personal Skills
 ======
