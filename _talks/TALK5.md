@@ -1,3 +1,4 @@
+
 ---
 title: "Art Interventions in Urban Renewal: Spatial Shift to Logic, Collective Memory, and Emotional Communication"
 collection: talks
