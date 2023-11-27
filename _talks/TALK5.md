@@ -1,8 +1,8 @@
 ---
-title: "From Sound Cultural Techniques to Double Speed ​​Playback Technology: Time Manipulation from the Perspective of Kittler's Media Thoughts"
+title: "Art Interventions in Urban Renewal: Spatial Shift to Logic, Collective Memory, and Emotional Communication"
 collection: talks
 type: "Conference proceedings presentation"
-venue: "The 2023 Annual Conference of the Musicology and Sound Professional Committee of the Chinese Collegial Association For Visual Art (CCAVA) & The 3rd Music and Sound Academic Week of the Communication University of China (CUC)"
-date: 2023-07-16
-location: "Beijing, China"
+venue: "2023 The 17th Shanghai "Urban Culture" Graduate Academic Forum(SHNU)"
+date: 2023-11-18
+location: "Shanghai, China"
 ---
